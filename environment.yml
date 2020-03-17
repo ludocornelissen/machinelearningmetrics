@@ -12,3 +12,4 @@ dependencies:
   - matplotlib
   - seaborn
   - voila
+  - jupyter_contrib_nbextensions
