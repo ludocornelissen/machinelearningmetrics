@@ -13,4 +13,3 @@ dependencies:
   - seaborn
   - voila
   - voila-material
-  - jupyter_contrib_nbextensions
