@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - pandas
-  - ipympl
+  - ipympl=0.5.6
   - jupyter
   - ipython
   - numpy
